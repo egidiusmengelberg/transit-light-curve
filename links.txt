@@ -1,0 +1,4 @@
+http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/173/82/kplr009458613-2009166043257_llc_lc.tbl
+http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/146/89/kplr010666592-2009131105131_llc_lc.tbl
+http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/147/32/kplr011446443-2009131105131_llc_lc.tbl
+http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/171/33/kplr008120608-2009166043257_llc_lc.tbl
